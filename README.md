@@ -1,1 +1,3 @@
 # Mapping_Earthquakes
+## Purpose of Challenge
+In this project, earthquake data was used to create a map to showcase earthquake magnitudes around the globe. The map has a toggle, to toggle between different map types: street, satellite, and dark. There are varying colors to show the magnitudes of the earthquakes via a color gradient. The circle markers also vary in size depending on the magnitude of the earthquake. Tectonic plate data was added to show how close the earthquakes are to relative to the tectonic plates around the globe. D3 database was used, mapbox for styling, json files to pull data, and javascript to create the map.
